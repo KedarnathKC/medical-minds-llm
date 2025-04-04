@@ -1,4 +1,4 @@
-# medical-minds-llm
+# Medical Minds Unite: Amplifying Performance by Merging Specialized LLMs
 
 ## About
 This repo contains code for my team's submission for the final project of the course Advanced Natural Language Processing (CS 685) under the guidance of Professor Mohit Iyyer at UMass Amherst in the Spring '24 semester. 
